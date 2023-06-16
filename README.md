@@ -10,3 +10,10 @@ Anggota :
 
 
 Pantau Box adalah aplikasi pemilihan online dan rekapitulasi suara yang bertujuan mengatasi permasalahan dalam pemilu di Indonesia. Pantau Box menawarkan solusi dengan mempercepat proses pemungutan dan penghitungan suara, meningkatkan transparansi, serta mengurangi tingkat kecurangan. Aplikasi ini bertujuan memperbaiki proses pemilu lokal di Indonesia, meningkatkan partisipasi masyarakat, dan membangun kepercayaan terhadap pemerintah. Solusi ini sangat penting dalam situasi saat ini, di mana kepercayaan masyarakat sangat dibutuhkan oleh pemerintah Indonesia.
+
+
+Repo yang lain : 
+CC : https://github.com/mnalhibrizi/pantau-box
+ML: lauvinfox/pantau-box (github.com)
+MD: GitHub - simagodei123/PantauBox: Capstone Project "Pantau Box"
+
