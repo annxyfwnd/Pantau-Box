@@ -14,7 +14,7 @@ Pantau Box adalah aplikasi pemilihan online dan rekapitulasi suara yang bertujua
 
 Repo yang lain : 
 CC : https://github.com/mnalhibrizi/pantau-box
-ML: lauvinfox/pantau-box (github.com) 
-MD: GitHub - simagodei123/PantauBox: Capstone Project "Pantau Box"
+ML: https://github.com/lauvinfox/pantau-box
+MD: https://github.com/simagodei123/PantauBox
 
 
