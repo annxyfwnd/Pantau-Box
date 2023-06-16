@@ -1,0 +1,36 @@
+Dokumentasi Testing API menggunakan Postman:
+
+API Login dengan Memverifikasi NIK
+
+Metode: POST
+Endpoint: http://localhost:3000/api/login
+Body:
+Format: Raw (JSON)
+JSON Payload:
+{
+    "nik": "3173018903892176"
+}
+Hasil Respons:
+Jika berhasil, Anda akan menerima respons dengan status 200 OK, dan token akses mungkin akan diberikan dalam respons untuk digunakan pada permintaan berikutnya.
+Jika terjadi kesalahan, respons akan menampilkan informasi kesalahan yang sesuai dengan status dan pesan kesalahan yang relevan.
+API Upload Foto Verifikasi
+
+Metode: POST
+Endpoint: http://localhost:5000/upload
+Body:
+Format: Form Data
+Pilih file foto yang ingin diunggah sebagai nilai Form Data.
+Hasil Respons:
+Jika berhasil, Anda akan menerima respons dengan status 200 OK dan mungkin akan ada informasi tambahan seperti URL atau detail tentang foto yang diunggah.
+Jika terjadi kesalahan, respons akan menampilkan informasi kesalahan yang sesuai dengan status dan pesan kesalahan yang relevan.
+API User Melakukan Voting
+
+Metode: PUT
+Endpoint: http://localhost:3000/api/vote/:id
+Ganti :id dengan ID yang sesuai dari entitas yang ingin di-vote.
+Body:
+Format: x-www-form-urlencoded
+Isi field "option" dengan nilai yang diinginkan untuk melakukan voting. Contoh: option=4.
+Hasil Respons:
+Jika berhasil, Anda akan menerima respons dengan status 200 OK dan mungkin akan ada informasi tambahan seperti hasil voting atau pesan konfirmasi.
+Jika terjadi kesalahan, respons akan menampilkan informasi kesalahan yang sesuai dengan status dan pesan kesalahan yang relevan.
